@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="21" height="21" tilewidth="100" tileheight="100">
+ <tileset firstgid="1" name="BGC" tilewidth="100" tileheight="100">
+  <image source="BGC.png" width="1342" height="546"/>
+ </tileset>
+ <tileset firstgid="66" name="basic_D" tilewidth="100" tileheight="100">
+  <image source="basic_D.png" width="100" height="100"/>
+ </tileset>
+ <layer name="块层 1" width="21" height="21">
+  <data encoding="base64" compression="zlib">
+   eJytk8EOQDAQRFvu9E7v9I7//zMr0WQyYbN0D+8gslOdZ2MIITrRCb0wOIB5F5MDmJmExQHMzMLmAPfp4cTT0Xj3x5ktbua7P85scbMK5SGzxc0uHEZH+A7/5Tcsjmr3OJcULI5q9ziXFXg/te5xrihwR1r3OHcoaB6+zCF8d+sesj+Ev826h+wPSXSedQ/ZH5LpPOsesj+k0Hl/95Hz8fkE1Twp2w==
+  </data>
+ </layer>
+ <objectgroup name="对象层 1" width="21" height="21">
+  <object name="start" x="1000" y="1000" width="100" height="100"/>
+ </objectgroup>
+</map>
